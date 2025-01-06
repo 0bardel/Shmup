@@ -1,3 +1,2 @@
 # Shmup
-
-Developed with Unreal Engine 5
+Gra typu Shoot'em Up wykonana za pomocą Unreal Engine 5
